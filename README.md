@@ -12,3 +12,11 @@
 # Other Resources:
 #### Cucumber Documentation  -  https://cucumber.io/docs/gherkin/
 #### Writing Good Gherkin Enables Good Test Automation -  https://youtu.be/pKKZ2QM_36k
+
+
+# Automation of Feature File
+### Python Behave
+
+# Reporting
+### Allure Reporting
+
