@@ -20,3 +20,4 @@
 # Reporting
 ### Allure Reporting
 
+![Allure Reporting](https://user-images.githubusercontent.com/26836928/84983939-787dc180-b157-11ea-9881-3e8bbe6ccd50.png)
